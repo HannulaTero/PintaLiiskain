@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PintaLiiskain__Free",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PintaLiiskain__Free",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/PintaLiiskain/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

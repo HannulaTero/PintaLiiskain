@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Liiskain",
+  "%Name":"PintaLiiskain",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"PintaLiiskain x Examples","folderPath":"folders/PintaLiiskain x Examples.yy","name":"PintaLiiskain x Examples","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"PintaLiiskain","folderPath":"folders/PintaLiiskain.yy","name":"PintaLiiskain","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Methods","folderPath":"folders/PintaLiiskain/Methods.yy","name":"Methods","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -20,16 +21,33 @@
   "MetaData":{
     "IDEVersion":"2026.100.0.1149",
   },
-  "name":"Liiskain",
+  "name":"PintaLiiskain",
   "resources":[
-    {"id":{"name":"OBJ_LiiskainExample","path":"objects/OBJ_LiiskainExample/OBJ_LiiskainExample.yy",},},
-    {"id":{"name":"RM_LiiskainExample","path":"rooms/RM_LiiskainExample/RM_LiiskainExample.yy",},},
+    {"id":{"name":"PintaLiiskain_LICENSE","path":"notes/PintaLiiskain_LICENSE/PintaLiiskain_LICENSE.yy",},},
+    {"id":{"name":"PintaLiiskain_README","path":"notes/PintaLiiskain_README/PintaLiiskain_README.yy",},},
+    {"id":{"name":"OBJ_PintaLiiskain_Example","path":"objects/OBJ_PintaLiiskain_Example/OBJ_PintaLiiskain_Example.yy",},},
+    {"id":{"name":"RM_PintaLiiskain_Example","path":"rooms/RM_PintaLiiskain_Example/RM_PintaLiiskain_Example.yy",},},
+    {"id":{"name":"__PintaLiiskain__AssignBegin","path":"scripts/__PintaLiiskain__AssignBegin/__PintaLiiskain__AssignBegin.yy",},},
+    {"id":{"name":"__PintaLiiskain__AssignEnd","path":"scripts/__PintaLiiskain__AssignEnd/__PintaLiiskain__AssignEnd.yy",},},
+    {"id":{"name":"__PintaLiiskain__AssignSprite","path":"scripts/__PintaLiiskain__AssignSprite/__PintaLiiskain__AssignSprite.yy",},},
+    {"id":{"name":"__PintaLiiskain__AssignSurface","path":"scripts/__PintaLiiskain__AssignSurface/__PintaLiiskain__AssignSurface.yy",},},
+    {"id":{"name":"__PintaLiiskain__Free","path":"scripts/__PintaLiiskain__Free/__PintaLiiskain__Free.yy",},},
+    {"id":{"name":"__PintaLiiskain__GetIndex","path":"scripts/__PintaLiiskain__GetIndex/__PintaLiiskain__GetIndex.yy",},},
+    {"id":{"name":"__PintaLiiskain__SetFormat","path":"scripts/__PintaLiiskain__SetFormat/__PintaLiiskain__SetFormat.yy",},},
+    {"id":{"name":"__PintaLiiskain__SetLayout","path":"scripts/__PintaLiiskain__SetLayout/__PintaLiiskain__SetLayout.yy",},},
+    {"id":{"name":"__PintaLiiskain__Update","path":"scripts/__PintaLiiskain__Update/__PintaLiiskain__Update.yy",},},
+    {"id":{"name":"__PintaLiiskain__Verify","path":"scripts/__PintaLiiskain__Verify/__PintaLiiskain__Verify.yy",},},
     {"id":{"name":"PintaLiiskain","path":"scripts/PintaLiiskain/PintaLiiskain.yy",},},
+    {"id":{"name":"SHD_PintaLiiskain_Average","path":"shaders/SHD_PintaLiiskain_Average/SHD_PintaLiiskain_Average.yy",},},
+    {"id":{"name":"SHD_PintaLiiskain_Max","path":"shaders/SHD_PintaLiiskain_Max/SHD_PintaLiiskain_Max.yy",},},
+    {"id":{"name":"SHD_PintaLiiskain_Min","path":"shaders/SHD_PintaLiiskain_Min/SHD_PintaLiiskain_Min.yy",},},
+    {"id":{"name":"SHD_PintaLiiskain_Sum","path":"shaders/SHD_PintaLiiskain_Sum/SHD_PintaLiiskain_Sum.yy",},},
+    {"id":{"name":"SPR_PintaLiiskain_Example","path":"sprites/SPR_PintaLiiskain_Example/SPR_PintaLiiskain_Example.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"RM_LiiskainExample","path":"rooms/RM_LiiskainExample/RM_LiiskainExample.yy",},},
+    {"roomId":{"name":"RM_PintaLiiskain_Example","path":"rooms/RM_PintaLiiskain_Example/RM_PintaLiiskain_Example.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

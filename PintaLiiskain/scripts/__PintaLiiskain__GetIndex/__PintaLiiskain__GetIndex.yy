@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PintaLiiskain__GetIndex",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PintaLiiskain__GetIndex",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/PintaLiiskain/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

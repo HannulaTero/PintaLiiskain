@@ -1,9 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_LiiskainExample",
-  "eventList":[],
+  "%Name":"OBJ_PintaLiiskain_Example",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"OBJ_LiiskainExample",
+  "name":"OBJ_PintaLiiskain_Example",
   "overriddenProperties":[],
   "parent":{
     "name":"PintaLiiskain x Examples",

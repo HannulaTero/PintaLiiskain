@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PintaLiiskain__AssignBegin",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PintaLiiskain__AssignBegin",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/PintaLiiskain/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

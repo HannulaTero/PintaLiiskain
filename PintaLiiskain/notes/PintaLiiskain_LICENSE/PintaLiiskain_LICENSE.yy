@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"PintaLiiskain_LICENSE",
+  "name":"PintaLiiskain_LICENSE",
+  "parent":{
+    "name":"PintaLiiskain",
+    "path":"folders/PintaLiiskain.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
