@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PintaLiiskain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PintaLiiskain",
+  "parent":{
+    "name":"PintaLiiskain",
+    "path":"folders/PintaLiiskain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
