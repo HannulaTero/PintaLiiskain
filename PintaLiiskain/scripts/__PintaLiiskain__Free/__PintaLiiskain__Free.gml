@@ -9,6 +9,7 @@
 */ 
 function __PintaLiiskain__Free()
 {
+  // The cascading surfaces.
   array_foreach(self.surfaces, function(_surface, _index)
   {
     if (surface_exists(_surface) == true)
@@ -16,4 +17,13 @@ function __PintaLiiskain__Free()
       surface_free(_surface);
     }
   });
+  
+  
+  // Temporal helper target.
+  if (surface_exists(self.temporal) == true)
+  {
+    surface_free(self.temporal);
+  }  
+  
+  return self;
 }

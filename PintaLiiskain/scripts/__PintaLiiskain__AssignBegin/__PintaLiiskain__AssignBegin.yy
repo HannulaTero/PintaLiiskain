@@ -6,7 +6,7 @@
   "name":"__PintaLiiskain__AssignBegin",
   "parent":{
     "name":"Methods",
-    "path":"folders/PintaLiiskain/Methods.yy",
+    "path":"folders/PintaLiiskain/__Private/Methods.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

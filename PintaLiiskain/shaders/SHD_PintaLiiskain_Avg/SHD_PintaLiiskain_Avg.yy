@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"SHD_PintaLiiskain_Avg",
+  "name":"SHD_PintaLiiskain_Avg",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/PintaLiiskain/__Private/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

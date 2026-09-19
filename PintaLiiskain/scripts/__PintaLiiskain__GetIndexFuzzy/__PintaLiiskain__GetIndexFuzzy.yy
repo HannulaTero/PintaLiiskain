@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"__PintaLiiskain__GetIndex",
+  "%Name":"__PintaLiiskain__GetIndexFuzzy",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"__PintaLiiskain__GetIndex",
+  "name":"__PintaLiiskain__GetIndexFuzzy",
   "parent":{
     "name":"Methods",
-    "path":"folders/PintaLiiskain/Methods.yy",
+    "path":"folders/PintaLiiskain/__Private/Methods.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

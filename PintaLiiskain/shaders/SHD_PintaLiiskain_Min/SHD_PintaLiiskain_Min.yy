@@ -3,8 +3,8 @@
   "%Name":"SHD_PintaLiiskain_Min",
   "name":"SHD_PintaLiiskain_Min",
   "parent":{
-    "name":"Methods",
-    "path":"folders/PintaLiiskain/Methods.yy",
+    "name":"Shaders",
+    "path":"folders/PintaLiiskain/__Private/Shaders.yy",
   },
   "resourceType":"GMShader",
   "resourceVersion":"2.0",

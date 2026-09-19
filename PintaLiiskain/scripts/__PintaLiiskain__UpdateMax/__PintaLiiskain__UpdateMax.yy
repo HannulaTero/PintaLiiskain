@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PintaLiiskain__UpdateMax",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PintaLiiskain__UpdateMax",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/PintaLiiskain/__Private/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

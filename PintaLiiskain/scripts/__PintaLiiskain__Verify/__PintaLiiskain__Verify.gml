@@ -1,7 +1,8 @@
 
 
 /**
-* Ensures that surfaces exist. If not, then they are created.
+* Ensures that cascading surfaces exist. If not, then they are created.
+* Doesn't verify temporal surface.
 * 
 * @context PintaLiiskain
 * @returns {Struct.PintaLiiskain}

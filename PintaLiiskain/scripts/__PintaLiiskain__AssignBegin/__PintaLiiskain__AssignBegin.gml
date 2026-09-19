@@ -22,7 +22,6 @@ function __PintaLiiskain__AssignBegin(_blendable=false, _texFilter=false)
   
   
   gpu_push_state();
-  gpu_set_tex_filter(_texFilter);
-  gpu_set_blendenable(_blendable);
+  gpu_set_state(__PintaLiiskainGPUState());
   surface_set_target(self.surfaces[0]);
 }

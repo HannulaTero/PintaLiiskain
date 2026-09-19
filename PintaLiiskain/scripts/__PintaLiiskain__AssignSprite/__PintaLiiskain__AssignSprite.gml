@@ -22,8 +22,7 @@ function __PintaLiiskain__AssignSprite(_sprite, _image=0)
   
   // Apply the sprite.
   gpu_push_state();
-  gpu_set_tex_filter(false);
-  gpu_set_blendenable(false);
+  gpu_set_state(__PintaLiiskainGPUState());
   surface_set_target(self.surfaces[0]);
   draw_sprite_stretched(_sprite, _image, 0, 0, self.maxLayout[0], self.maxLayout[1]);
   surface_reset_target();

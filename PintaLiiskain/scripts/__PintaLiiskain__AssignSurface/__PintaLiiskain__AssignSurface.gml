@@ -21,8 +21,7 @@ function __PintaLiiskain__AssignSurface(_surface)
   
   // Apply the surface.
   gpu_push_state();
-  gpu_set_tex_filter(false);
-  gpu_set_blendenable(false);
+  gpu_set_state(__PintaLiiskainGPUState());
   surface_set_target(self.surfaces[0]);
   draw_surface_stretched(_surface, 0, 0, self.maxLayout[0], self.maxLayout[1]);
   surface_reset_target();

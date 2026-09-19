@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"SHD_PintaLiiskain_UNormSeed",
+  "name":"SHD_PintaLiiskain_UNormSeed",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/PintaLiiskain/__Private/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
