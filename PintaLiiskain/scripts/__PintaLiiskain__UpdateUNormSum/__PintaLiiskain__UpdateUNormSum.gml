@@ -18,6 +18,10 @@
 * In shader this can decoded by doing dot product with: vec4(1.0, 256.0, 65536.0, 16777216.0)
 * -> Note that shader floats can't represent the highest numbers.
 * 
+* Note that visually results usually seem invisible, as alpha represent most significant byte,
+* and you can reach it only with 4096x4096 surface all white.
+* In practice alpha will always be 0. But technically this does support 16k surfaces too
+* 
 * When reading back to CPU, you don't need to do any decoding,
 * instead you should be able to just use "buffer_u32" to read the value.
 * 
