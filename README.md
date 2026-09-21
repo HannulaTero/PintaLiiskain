@@ -1,9 +1,10 @@
 
+
 --- 
 ### PINTALIISKAIN
 #### A surface reducer.
 #### By Tero Hannula, 2026_09_21
-
+<img width="128" height="128" align="right" alt="icon-PintaLiiskain" src="https://github.com/user-attachments/assets/8fec55d0-cf78-47d5-bf76-bb3221e5bcca" />
 https://terohannula.itch.io/pintaliiskain
 
 --- 
