@@ -11,7 +11,7 @@
 */ 
 function __PintaLiiskain__ReduceAvg()
 {
-  return self.Reduce(SHD_PintaLiiskain_Avg);
+  return self.Reduce(SHD_PintaLiiskain_Avg, true);
 }
 
 

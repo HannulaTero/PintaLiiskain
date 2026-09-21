@@ -12,10 +12,11 @@
 * Have to be applied in Draw-event!
 * 
 * @context PintaLiiskain
-* @param {Asset.GMShader | String} _shader 
+* @param {Asset.GMShader | String}  _shader
+* @param {Bool}                     _texFilter
 * @returns {Struct.PintaLiiskain}
 */ 
-function __PintaLiiskain__Reduce(_shader=SHD_PintaLiiskain_Avg)
+function __PintaLiiskain__Reduce(_shader, _texFilter=false)
 {
   // Chooe correct shader.
   if (is_string(_shader) == true)
@@ -49,6 +50,7 @@ function __PintaLiiskain__Reduce(_shader=SHD_PintaLiiskain_Avg)
   // Apply the passes.
   gpu_push_state();
   gpu_set_state(__PintaLiiskainGPUState());
+  gpu_set_tex_filter(_texFilter);
   shader_set(_shader);
   for(var i = 1; i < _count; i++)
   {
