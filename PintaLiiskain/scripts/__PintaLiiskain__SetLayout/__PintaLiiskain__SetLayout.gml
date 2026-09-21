@@ -16,6 +16,14 @@
 */ 
 function __PintaLiiskain__SetLayout(_w, _h)
 {
+  // Skip if the layout is already the same.
+  if (self.maxLayout[0] == _w)
+  && (self.maxLayout[1] == _h)
+  {
+    return self;
+  }
+  
+  
   // Get the maximum layout.
   self.maxLayout[0] = _w; 
   self.maxLayout[1] = _h; 

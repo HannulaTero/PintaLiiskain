@@ -2,10 +2,12 @@
   "$GMNotes":"v1",
   "%Name":"PintaLiiskain_README",
   "name":"PintaLiiskain_README",
+  "openedOnFirstLoad":true,
   "parent":{
     "name":"PintaLiiskain",
     "path":"folders/PintaLiiskain.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",
+  "shouldOpenOnLoad":true,
 }

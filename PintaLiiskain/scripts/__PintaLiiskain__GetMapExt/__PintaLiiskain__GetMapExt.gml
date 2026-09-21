@@ -4,9 +4,11 @@
 * Pushes the mapping to existing surface.
 * You must ensure to use the correct size by yourself (GetMapLayout)
 * 
+* Returns true/false whether was succesful.
+* 
 * @context PintaLiiskain
 * @param {Id.Surface} _target
-* @returns {Struct.PintaLiiskain}
+* @returns {Bool}
 */ 
 function __PintaLiiskain__GetMapExt(_target)
 {
@@ -14,8 +16,8 @@ function __PintaLiiskain__GetMapExt(_target)
   if (array_length(self.layouts) < 2)
   || (self.Exists() == false)
   {
-    throw("[PintaLiiskain] GetMap, ensure surfaces exist first!");
-    return self;
+    show_debug_message("[PintaLiiskain] GetMap, ensure surfaces exist first!");
+    return false;
   }
   
   
@@ -40,5 +42,5 @@ function __PintaLiiskain__GetMapExt(_target)
   
   
   // 
-  return self;
+  return true;
 }

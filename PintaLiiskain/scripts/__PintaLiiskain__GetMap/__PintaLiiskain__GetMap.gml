@@ -10,7 +10,8 @@
 function __PintaLiiskain__GetMap()
 {
   // Sanity check.
-  if (self.Exists() == false)
+  if (array_length(self.layouts) < 2)
+  || (self.Exists() == false)
   {
     return undefined;
   }

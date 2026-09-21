@@ -27,14 +27,14 @@ function PintaLiiskain(_w, _h, _format=surface_rgba8unorm) constructor
   static GetMapExt      = __PintaLiiskain__GetMapExt;
   static GetMapLayout   = __PintaLiiskain__GetMapLayout;
   static GetSurface     = __PintaLiiskain__GetSurface;
+  static Reduce         = __PintaLiiskain__Reduce;
+  static ReduceAvg      = __PintaLiiskain__ReduceAvg;
+  static ReduceMax      = __PintaLiiskain__ReduceMax;
+  static ReduceMin      = __PintaLiiskain__ReduceMin;
+  static ReduceSum      = __PintaLiiskain__ReduceSum;
+  static ReduceUNormSum = __PintaLiiskain__ReduceUNormSum;
   static SetFormat      = __PintaLiiskain__SetFormat;
   static SetLayout      = __PintaLiiskain__SetLayout;
-  static Update         = __PintaLiiskain__Update;
-  static UpdateAvg      = __PintaLiiskain__UpdateAvg;
-  static UpdateMax      = __PintaLiiskain__UpdateMax;
-  static UpdateMin      = __PintaLiiskain__UpdateMin;
-  static UpdateSum      = __PintaLiiskain__UpdateSum;
-  static UpdateUNormSum = __PintaLiiskain__UpdateUNormSum;
   static Verify         = __PintaLiiskain__Verify;
   
   

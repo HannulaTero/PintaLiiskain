@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PintaLiiskain__ReduceAvg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PintaLiiskain__ReduceAvg",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/PintaLiiskain/__Private/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
