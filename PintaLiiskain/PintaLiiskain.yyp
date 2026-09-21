@@ -51,6 +51,7 @@
     {"id":{"name":"__PintaLiiskain__SetLayout","path":"scripts/__PintaLiiskain__SetLayout/__PintaLiiskain__SetLayout.yy",},},
     {"id":{"name":"__PintaLiiskain__Verify","path":"scripts/__PintaLiiskain__Verify/__PintaLiiskain__Verify.yy",},},
     {"id":{"name":"__PintaLiiskainGPUState","path":"scripts/__PintaLiiskainGPUState/__PintaLiiskainGPUState.yy",},},
+    {"id":{"name":"PintaLiiskain_EXPORT","path":"scripts/PintaLiiskain_EXPORT/PintaLiiskain_EXPORT.yy",},},
     {"id":{"name":"PintaLiiskain","path":"scripts/PintaLiiskain/PintaLiiskain.yy",},},
     {"id":{"name":"SHD_PintaLiiskain_Avg","path":"shaders/SHD_PintaLiiskain_Avg/SHD_PintaLiiskain_Avg.yy",},},
     {"id":{"name":"SHD_PintaLiiskain_Max","path":"shaders/SHD_PintaLiiskain_Max/SHD_PintaLiiskain_Max.yy",},},

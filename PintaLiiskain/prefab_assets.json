@@ -1,0 +1,133 @@
+{
+  "Version": "1.0",
+  "assets": [
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__AssignBegin"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__AssignEnd"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__AssignSprite"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__AssignSurface"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__Exists"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__Free"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetIndexExact"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetIndexFuzzy"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetMap"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetMapExt"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetMapLayout"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__GetSurface"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__Reduce"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__ReduceAvg"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__ReduceMax"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__ReduceMin"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__ReduceSum"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__ReduceUNormSum"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__SetFormat"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__SetLayout"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskain__Verify"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_Avg"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_Max"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_Min"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_Sum"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_UNormSeed"
+    },
+    {
+      "export": 1,
+      "name": "SHD_PintaLiiskain_UNormSum"
+    },
+    {
+      "export": 1,
+      "name": "__PintaLiiskainGPUState"
+    },
+    {
+      "export": 2,
+      "name": "PintaLiiskain"
+    },
+    {
+      "export": 1,
+      "name": "PintaLiiskain_EXPORT"
+    },
+    {
+      "export": 2,
+      "name": "PintaLiiskain_LICENSE"
+    },
+    {
+      "export": 2,
+      "name": "PintaLiiskain_README"
+    }
+  ]
+}

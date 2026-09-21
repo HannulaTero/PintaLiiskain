@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PintaLiiskain_EXPORT",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PintaLiiskain_EXPORT",
+  "parent":{
+    "name":"PintaLiiskain",
+    "path":"folders/PintaLiiskain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
